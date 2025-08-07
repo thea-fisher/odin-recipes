@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is my first project. Once completed, this project will be a simple recipe website showcasing skills learnt so far in HTML. By the end of this project I will have demonstrated basic HTML skills and understanding by creating a simple website including several pages, titles, lists and links using HTML.
+=======
+This is my first project. Once completed, this project will be a simple recipe website showcasing skills learnt so far in HTML.
+By the end of this project I will have demonstrated basic HTML skills and understanding by creating a simple website including several pages, titles, lists and links using HTML.
+
+>>>>>>> origin
